@@ -1,0 +1,4 @@
+words[0] = hello
+words[1] = world
+words[2] = and
+words[3] = stuff
